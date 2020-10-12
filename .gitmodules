@@ -1,0 +1,6 @@
+[submodule "serpentine/machine-learning"]
+	path = serpentine/machine-learning
+	url = git@gitlab.serpentineai.nl:education/pommerman/machine-learning.git
+[submodule "serpentine/classical"]
+	path = serpentine/classical
+	url = git@gitlab.serpentineai.nl:education/pommerman/classical.git
